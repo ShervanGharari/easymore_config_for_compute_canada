@@ -21,6 +21,7 @@ python Chapter1_E1.py
 ```
 
 ```
+module reset
 module load gcc/9.3.0
 module load geo-stack
 
