@@ -1,3 +1,9 @@
+# EASYMORE on Graham
+
+EASYMORE is now available on the wheelhouse on Digital Research Alliance of Canada (formely ComputeCanada) [resources](https://docs.alliancecan.ca/wiki/Available_Python_wheels). 
+
+## On log in node
+
 ```
 module reset
 module load StdEnv/2020 gcc/9.3.0 openmpi/4.0.3
