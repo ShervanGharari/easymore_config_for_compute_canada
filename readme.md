@@ -36,7 +36,7 @@ python Chapter1_E1.py
 #
 ```
 
-## inside job
+## Inside job
 
 ```
 #!/bin/bash
