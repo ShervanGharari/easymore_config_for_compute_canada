@@ -1,8 +1,8 @@
 # EASYMORE on Graham
 
-EASYMORE is now available on the wheelhouse on Digital Research Alliance of Canada (formely ComputeCanada) [resources](https://docs.alliancecan.ca/wiki/Available_Python_wheels).
+EASYMORE is now available on the [wheelhouse] (https://docs.alliancecan.ca/wiki/Available_Python_wheels) on Digital Research Alliance of Canada (formely ComputeCanada) clusters.
 
-To use EASYMORE on clusters managed by Digital Research Alliance of Canada, you should follow the below instructions either for small checks on log in node or inside a job.
+To use EASYMORE on clusters managed by Digital Research Alliance of Canada, you can follow the below instructions either for creating virtual environemtn and small test of that on log in node or inside a job.
 
 ## On log in node
 
