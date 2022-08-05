@@ -1,4 +1,4 @@
-# EASYMORE on Graham
+# EASYMORE Configuration for Clusters of Compute Canada
 
 [EASYMORE](https://github.com/ShervanGharari/EASYMORE) is now available on [wheelhouse](https://docs.alliancecan.ca/wiki/Available_Python_wheels) on Digital Research Alliance of Canada (formely ComputeCanada) clusters.
 
