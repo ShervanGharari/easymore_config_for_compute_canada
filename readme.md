@@ -23,7 +23,7 @@ rm -rf ~/easymore-env
 virtualenv ~/easymore-env
 source ~/easymore-env/bin/activate
 pip install --no-index --upgrade pip
-pip install --no-index easymore[complete]
+pip install --no-index easymore
 
 # check if the code run smoothly given the example on the easymore github repo
 cd # go to home
@@ -56,7 +56,7 @@ module load python/3.8.10 scipy-stack/2022a mpi4py/3.0.3
 virtualenv --no-download $SLURM_TMPDIR/env
 source $SLURM_TMPDIR/env/bin/activate
 pip install --no-index --upgrade pip
-pip install --no-index easymore[complete]
+pip install --no-index easymore
 
 # OR use your locally created virtual env in home directory (created as explained on log in node; above)
 # source ~/easymore-env/bin/activate # when this is uncommneted, then commnet above (virtualenv ...)
