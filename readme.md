@@ -23,7 +23,8 @@ rm -rf ~/easymore-env
 virtualenv ~/easymore-env
 source ~/easymore-env/bin/activate
 pip install --no-index --upgrade pip
-pip install --no-index easymore
+#pip install --no-index easymore
+pip insstall git+https://github.com/ShervanGharari/EASYMORE.git
 
 # check if the code run smoothly given the example on the easymore github repo
 cd # go to home
