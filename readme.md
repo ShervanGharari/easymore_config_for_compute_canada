@@ -31,8 +31,8 @@ rm -rf EASYMORE
 git clone https://github.com/ShervanGharari/EASYMORE.git
 cd EASYMORE/examples
 pip install --no-index jupyter
-jupyter nbconvert Chapter1_E1.ipynb --to python
-python Chapter1_E1.py
+jupyter nbconvert 01_ERA5_Regular_Lat_Lon.ipynb --to python
+python 01_ERA5_Regular_Lat_Lon.py
 #
 ```
 
